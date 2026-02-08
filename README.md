@@ -37,12 +37,15 @@
 
 ---
 
-## 👾 Pac-Man Contribution Game
-## 🎮 Contribution Activity## 🎮 Developer Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinavxdev&theme=github-dark)
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/abhinavxdev/abhinavxdev/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhinavxdev&icon=0&color=0)](https://visitcount.itsvg.in)
