@@ -38,11 +38,13 @@
 ---
 
 ## 👾 Pac-Man Contribution Game
-## 🎮 Contribution Activity
+## 🎮 Contribution Activity## 🎮 Developer Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinavxdev&theme=github-dark)
 
----
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/abhinavxdev/abhinavxdev/blob/output/github-contribution-grid-snake.svg)
 
+---
 [![](https://visitcount.itsvg.in/api?id=abhinavxdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
