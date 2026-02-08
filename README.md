@@ -38,7 +38,8 @@
 ---
 
 ## 👾 Pac-Man Contribution Game
-![Pac-Man](https://github.com/abozanona/pacman-contribution-graph/raw/master/svg/pacman.svg)
+## 🎮 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinavxdev&theme=github-dark)
 
 ---
 
