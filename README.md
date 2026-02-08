@@ -1,68 +1,58 @@
-# 💫 About Me
+## About Me
 
-👋 Hi, I’m **Abhinav**  
-💻 Full-stack Developer with strong foundations in **Python & Web Technologies**  
-🤖 Currently exploring **Artificial Intelligence**, **LangGraph**, and **LangFlow**  
-🚀 Passionate about building scalable, real-world solutions
+Full-stack developer with hands-on experience in **Python**, **JavaScript**, and modern web technologies.  
+Skilled in building clean, maintainable applications using **React** and **MySQL**.  
+Currently expanding into **Artificial Intelligence**, focusing on **LangGraph** and **LangFlow** for AI-driven systems.
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/i_abhinxv" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/abhinav-maheshwari-39594a146" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://x.com/AbhiNav13174750" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  <a href="mailto:abhinavmaheshwari555@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+## Professional Profiles
+
+<p>
+  <a href="https://linkedin.com/in/abhinav-maheshwari-39594a146">LinkedIn</a> ·
+  <a href="https://x.com/AbhiNav13174750">X (Twitter)</a> ·
+  <a href="https://instagram.com/i_abhinxv">Instagram</a> ·
+  <a href="mailto:abhinavmaheshwari555@gmail.com">Email</a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## Technical Skills
 
-### 🚀 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-  <img src="https://skillicons.dev/icons?i=php" height="45"/>
+### Languages & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
 </p>
 
-### 🗄️ Databases & Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mariadb" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="36"/>
 </p>
 
-### 📊 Data & AI Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy" height="45"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+### Data & AI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36"/>
 </p>
 
-### 🎨 Design & Productivity
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=canva" height="45"/>
-  <img src="https://skillicons.dev/icons?i=photoshop" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+### Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36"/>
 </p>
 
 ---
 
-✨ *Always learning, always building.*
+*Focused on writing reliable code and continuously improving through real-world projects.*
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhinavxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
