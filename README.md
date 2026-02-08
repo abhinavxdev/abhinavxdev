@@ -6,27 +6,6 @@ Currently expanding into **Artificial Intelligence**, focusing on **LangGraph** 
 
 ---
 
-<p align="left">
-  <a href="https://linkedin.com/in/abhinav-maheshwari-39594a146" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/abhinavxdev" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/AbhiNav13174750" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="26" alt="X"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:abhinavmaheshwari555@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email"/>
-  </a>
-</p>
-
-
-
-
-
----
-
 ## Technical Skills
 
 ### Languages & Frameworks
@@ -84,6 +63,18 @@ Currently expanding into **Artificial Intelligence**, focusing on **LangGraph** 
   <img alt="pacman contribution graph" 
        src="https://raw.githubusercontent.com/abhinavxdev/abhinavxdev/output/pacman-contribution-graph.svg">
 </picture>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+<div align="center"> <a href="https://www.linkedin.com/in/abhinav-maheshwari-39594a146/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a> <a href="mailto:abhinavmaheshwari555@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> </a> </div>
+  </body>
+</html>
+
 
 
 
