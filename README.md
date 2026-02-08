@@ -12,23 +12,30 @@ Currently expanding into **Artificial Intelligence**, focusing on **LangGraph** 
 
 ## Professional Profiles
 
-<p align="left">
-  <a href="https://linkedin.com/in/abhinav-maheshwari-39594a146" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26"/>
-  </a>&nbsp;&nbsp;&nbsp;
+## Profiles
 
-  <a href="https://github.com/abhinavxdev" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="26"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<p>
+  <a href="https://linkedin.com/in/abhinav-maheshwari-39594a146">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24"/> LinkedIn
+  </a><br>
 
-  <a href="https://x.com/AbhiNav13174750" title="X">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="26"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/abhinavxdev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24"/> GitHub
+  </a><br>
 
-  <a href="mailto:abhinavmaheshwari555@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26"/>
+  <a href="https://x.com/AbhiNav13174750">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="24"/> X (Twitter)
+  </a><br>
+
+  <a href="https://instagram.com/i_abhinxv">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="24"/> Instagram
+  </a><br>
+
+  <a href="mailto:abhinavmaheshwari555@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24"/> Email
   </a>
 </p>
+
 
 
 
